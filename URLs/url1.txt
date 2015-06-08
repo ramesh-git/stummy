@@ -1,1 +1,1 @@
-https://rockflicker.accenture.com/fpl/fplnewcom/app/templates/form_multiplestreetlight.php
+http://fooplugins.com/footable/demos/add-delete-row.htm
